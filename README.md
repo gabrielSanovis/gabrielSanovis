@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielSanovis
 - 👀 I’m interested in Blockchain and Web Development
-- 🌱 I’m currently learning HTML5, CSS3 and middle Javascript
+- 🌱 I’m currently learning React Native, ReactJS and TypeScript.
 - 💞️ I’m looking to collaborate on future projects ...
 - 📫 How to reach me 9novis9@gmail.com
 
